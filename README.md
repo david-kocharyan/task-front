@@ -1,4 +1,4 @@
-# Quasar App (davtestproject)
+# Quasar App
 
 A Quasar Framework app
 
